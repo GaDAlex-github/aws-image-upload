@@ -1,0 +1,9 @@
+com\example\awsimageupload\Main.class
+com\example\awsimageupload\bucket\BucketName.class
+com\example\awsimageupload\profile\UserProfile.class
+com\example\awsimageupload\datastore\UserProfileDataAccessService.class
+com\example\awsimageupload\datastore\UserProfileRepository.class
+com\example\awsimageupload\profile\UserProfileService.class
+com\example\awsimageupload\profile\UserProfileController.class
+com\example\awsimageupload\config\AmazonConfig.class
+com\example\awsimageupload\filestore\FileStore.class
